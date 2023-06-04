@@ -1,1 +1,1 @@
-# guitarShopGrinch.gitHub.io
+# guitarShopGrinch
